@@ -12,8 +12,7 @@ export const metadata: Metadata = {
   description: "Full Stack Software Engineer at heliolytics.com",
   openGraph: {
     title: "Gurtaj Chhabra",
-    description:
-      "Software engineer at upstash.com and founder of planetfall.io",
+    description: "Software engineer at heliolytics.com",
     url: "https://gurtajchhabra.vercel.app",
     siteName: "gurtajchhabra.vercel.app",
     images: [
